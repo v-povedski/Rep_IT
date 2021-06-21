@@ -1,2 +1,2 @@
-# Rep_IT
-For IT trash
+# IT Repository 
+This repo is used for programming/storing/collecting  
